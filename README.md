@@ -12,7 +12,7 @@ You can edit this component and add more methods by simply adding below in funct
 
 Once you added you need to create a file in `components/ExtendAPI/plugins/default/services/v1.0/custom_method_second.php`
 
-#Set success and error response
+## Set success and error response
 
 To set success response use following :
 

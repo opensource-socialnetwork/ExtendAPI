@@ -1,6 +1,6 @@
 # ExtendAPI
-A example to utilize the OSSN RESTful API,  it extends the existing API feature and add custom method to syste
-This component add custom api method that can be called following way :
+A example to utilize the OSSN RESTful API,  it extends the existing API feature and add custom method to system
+This component add custom api method (my_custom_end_point) that can be called following way :
 
     CURL https://www.mywebsite.com/api/v1.0/my_custom_end_point?api_key_token=<my_api_key_token>
 
